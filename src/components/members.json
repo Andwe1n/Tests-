@@ -1,0 +1,810 @@
+{
+    "2026":[
+        {
+            "src": "img/members/2026-members/Birlica Stefan.jpg",
+            "name": "Birlica Stefan",
+            "department": "Team Leader - Software",
+            "desc": "I am a friendly person, I enjoy spending time on computers, playing video games."
+        },
+        {
+            "src": "img/members/2026-members/Stahie Andrei.jpeg",
+            "name": "Stahie Andrei",
+            "department": "Team Leader - Hardware",
+            "desc": "I'm passionate about engineering and in my spare time I create a lot of things."
+        },
+        { 
+            "src": "img/members/2026-members/Dumitru.jpeg",
+            "name": "Tiseanu Dumitru",
+            "department": "Hardware",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Mihnea.jpeg",
+            "name": "Cristache Mihnea",
+            "department": "Hardware",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Alfonso.jpeg",
+            "name": "Stoica Alfonso",
+            "department": "Hardware",
+            "desc": "I'm part of the hardware team, I'm a curious, receptive, attentive person and I like to learn new things. In my spare time I solve rubik cubes, play with legos and do martial arts."
+        },
+        {
+            "src": "img/members/2026-members/Mihoi.jpeg",
+            "name": "Calmâc Mihai",
+            "department": "Volunteer - Hardware",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Augustin.jpeg",
+            "name": "Bunea Augustin-Stefan",
+            "department": "Software",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Mitroi.jpeg",
+            "name": "Mitroi Stefan",
+            "department": "Software",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Tayga.jpeg",
+            "name": "Aydin Tayga",
+            "department": "Software",
+            "desc": "I am very friendly and always eager to meet new people. I enjoy reading, playing the guitar and spending time with my friends."
+        },
+        {
+            "src": "img/members/2026-members/David.jpeg",
+            "name": "Mădan David",
+            "department": "Software",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Lucian.jpeg",
+            "name": "Picioarea Lucian",
+            "department": "Software",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Rebeca.jpeg",
+            "name": "Moraru Rebeca",
+            "department": "Software",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Evelina.jpeg",
+            "name": "Predoiu Evelina",
+            "department": "Volunteer - Software",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Daria.jpeg",
+            "name": "Toboc Daria",
+            "department": "Volunteer - Software",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Cristina.jpeg",
+            "name": "Călărașu Cristina",
+            "department": "Volunteer - Software",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Ilinca.jpeg",
+            "name": "Alexandru Ilinca",
+            "department": "Marketing",
+            "desc": "I enjoy meeting new people, programming and travelling."
+        },
+        {
+            "src": "img/members/2026-members/Tocitu Sofia.jpeg",
+            "name": "Tocitu Sofia",
+            "department": "Marketing",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Sidonia.jpeg",
+            "name": "Precup Sidonia",
+            "department": "Marketing",
+            "desc": ""
+        },
+        {
+            "src": "img/members/2026-members/Teodora.jpeg",
+            "name": "Brebeanu Teodora",
+            "department": "Marketing",
+            "desc": ""
+        },
+            {
+                "src": "img/members/2026-members/Ana.jpeg",
+                "name": "Urleteanu Ana",
+                "department": "Volunteer - Marketing",
+                "desc": ""
+            }
+    ],
+    "2025": [
+        {
+            "src": "/img/members/stefan 3.jpg",
+            "name": "Birlica Stefan",
+            "department": "Team Leader - Software",
+            "desc": "I am a friendly person, I enjoy spending time on computers, playing video games."
+        },
+        {
+            "src": "/img/members/Stahie Andrei.jpeg",
+            "name": "Stahie Andrei",
+            "department": "Team Leader - Hardware",
+            "desc": "I'm passionate about engineering and in my spare time I create a lot of things."
+
+        },
+        {
+            "src": "/img/members/Marina Andrei.jpg",
+            "name": "Marina Andrei",
+            "department": "Hardware",
+            "desc": "I am a creative and friendly person who enjoys working with others . I have always liked to tinker with different things, and I'm glad I'm finally able to do it with robots."
+
+        },
+        {
+            "src": "/img/members/stoica alfonso.jpeg",
+            "name": "Stoica Alfonso",
+            "department": "Hardware",
+            "desc": "I'm part of the hardware,I'm a curious, receptive, attentive person and I like to learn new things.In my spare time I solve rubik cubes, play with legos and do martial arts."
+        },
+        {
+            "src": "/img/members/nichifor darius.jpeg",
+            "name": "Nichifor Darius",
+            "department": "Volunteer - Hardware",
+            "desc": "I would describe myself as a friendly,calm and hardworking person."
+        },
+        {
+            "src": "/img/members/dragomir erica2.jpeg",
+            "name": "Dragomir Erica",
+            "department": "Volunteer - Hardware",
+            "desc": "I am a hardworking person who enjoys science, video editing, cinematography, music and travelling"
+        },
+        {
+            "src": "/img/members/ana maria.jpeg",
+            "name": "Urleteanu Ana",
+            "department": "Volunteer - Hardware",
+            "desc": "I would describe myself as a friendly,calm and hardworking person."
+        },
+        {
+            "src": "/img/members/Lucas.jpeg",
+            "name": "Iordache Lucas",
+            "department": "Volunteer - Hardware",
+            "desc": "Cryptic hardware man. I enjoy engineering, playing guitar and strategy games. Sprinkle in some philosophy reading and voila! That's me!"
+        },
+        {
+            "src": "/img/members/surcelea luca.jpeg",
+            "name": "Surcelea Luca",
+            "department": "Programming",
+            "desc": "I am very excited to be in the high school robotics team and I like music."
+        },
+        {
+            "src": "/img/members/radulescu razvan.jpeg",
+            "name": "Radulescu Razvan",
+            "department": "Programming",
+            "desc": "I like doing computer science stuff and many more diverse activities, such as sports, travelling and socializing"
+        },
+        {
+            "src": "/img/members/traian2.jpeg",
+            "name": "Dobrescu Traian",
+            "department": "Volunteer - Programming",
+            "desc": "I enjoy art, design, programming, maths and doing the autonomy"
+        },
+        {
+            "src": "/img/members/caldararu denisa.jpg",
+            "name": "Căldăraru Denisa",
+            "department": "Volunteer - Programming",
+            "desc": "I consider myself an ambitious, motivated and organized person. I enjoy challenges and constantly set goals for myself."
+        },
+        {
+            "src": "/img/members/aydin tayga.jpeg",
+            "name": "Aydin Tayga",
+            "department": "Volunteer - Programming",
+            "desc": "I am very friendly and always eager to meet new people.I enjoy reading, playing the guitar and spending time with my friends."
+        },
+        {
+            "src": "/img/members/mirescu maia.jpeg",
+            "name": "Maia Mirescu",
+            "department": "Volunteer - Programming",
+            "desc": "Trying to find the best version of me."
+        },
+        {
+            "src": "/img/members/Ilinca.jpeg",
+            "name": "Alexandru Ilinca",
+            "department": "Volunteer - Programming",
+            "desc": "I enjoy meeting new people,  programming and travelling"
+        },
+        {
+            "src": "/img/members/gilma-alesia.png",
+            "name": "Gîlmă Alesia",
+            "department": "Engineering Notebook",
+            "desc": "I like reading and writing and I consider myself a creative person. I enjoy working in a team and  I also am the shortest one here."
+        },
+        {
+            "src": "/img/members/vulpe-diana.png",
+            "name": "Vulpe Diana",
+            "department": "Engineering Notebook",
+            "desc": "My sister told me about this team and because I like trying new things I decided to join it. I also enjoy singing and dancing."
+        },
+        {
+            "src": "/img/members/rostas maya.jpeg",
+            "name": "Rostas Maya",
+            "department": "Engineering Notebook",
+            "desc":"I'm a creative individual with a profund appreciation for the fusion of physics and motorsport"
+        },
+        {
+            "src": "/img/members/gherasim maria.jpeg",
+            "name": "Gherasim Maria",
+            "department": "Marketing",
+            "desc": "I like laughing, drawing and, more than that I like getting involved in everything, meeting and being surrounded by people"
+        },
+        {
+            "src": "/img/members/caldararu diana.jpeg",
+            "name": "Caldararu Diana",
+            "department": "Marketing",
+            "desc": "I'm mastering the art of being silent, even when there's a lot to be said."
+        },
+        {
+            "src": "/img/members/Craciun Sara.jpg",
+            "name": "Craciun Sara",
+            "department": "Marketing",
+            "desc": "I love the magic behind any program or geometric figure...shortly, I like the exact sciences, perfectly combined with teamwork, qualities that define me."
+        }
+    ],
+
+    "2024": [
+        {
+            "src": "/img/members/stefan 3.jpg",
+            "name": "Birlica Stefan",
+            "department": "Team Leader",
+            "desc": "I am a friendly person, I enjoy spending time on computers, playing video games."
+        },
+        {
+            "src": "/img/members/Stahie Andrei.jpeg",
+            "name": "Stahie Andrei",
+            "department": "Team Leader",
+            "desc": "I'm passionate about engineering and in my spare time I create a lot of things."
+
+        },
+        {
+            "src": "/img/members/Marina Andrei.jpg",
+            "name": "Marina Andrei",
+            "department": "Hardware",
+            "desc": "I am a creative and friendly person who enjoys working with others . I have always liked to tinker with different things, and I'm glad I'm finally able to do it with robots."
+
+        },
+        {
+            "src": "/img/members/stoica alfonso.jpeg",
+            "name": "Stoica Alfonso",
+            "department": "Hardware",
+            "desc": "I‘m part of the hardware,I‘m a curious, receptive, attentive person and I like to learn new things.In my spare time I solve rubik cubes, play with legos and do martial arts."
+        },
+        {
+            "src": "/img/members/nichifor darius.jpeg",
+            "name": "Nichifor Darius",
+            "department": "Volunteer - Hardware",
+            "desc": "I would describe myself as a friendly,calm and hardworking person."
+        },
+        {
+            "src": "/img/members/dragomir erica2.jpeg",
+            "name": "Dragomir Erica",
+            "department": "Volunteer - Hardware",
+            "desc": "I am a hardworking person who enjoys science, video editing, cinematography, music and travelling"
+        },
+        {
+            "src": "/img/members/ana maria.jpeg",
+            "name": "Urleteanu Ana",
+            "department": "Volunteer - Hardware",
+            "desc": "I would describe myself as a friendly,calm and hardworking person."
+        },
+        {
+            "src": "/img/members/Lucas.jpeg",
+            "name": "Iordache Lucas",
+            "department": "Volunteer - Hardware",
+            "desc": "Cryptic hardware man. I enjoy engineering, playing guitar and strategy games. Sprinkle in some philosophy reading and voila! That's me!"
+        },
+        {
+            "src": "/img/members/surcelea luca.jpeg",
+            "name": "Surcelea Luca",
+            "department": "Programming",
+            "desc": "I am very excited to be in the high school robotics team and I like music."
+        },
+        {
+            "src": "/img/members/radulescu razvan.jpeg",
+            "name": "Radulescu Razvan",
+            "department": "Programming",
+            "desc": "I like doing computer science stuff and many more diverse activities, such as sports, travelling and socializing"
+        },
+        {
+            "src": "/img/members/traian2.jpeg",
+            "name": "Dobrescu Traian",
+            "department": "Volunteer - Programming",
+            "desc": "I enjoy art, design, programming, maths and doing the autonomy"
+        },
+        {
+            "src": "/img/members/caldararu denisa.jpg",
+            "name": "Căldăraru Denisa",
+            "department": "Volunteer - Programming",
+            "desc": "I consider myself an ambitious, motivated and organized person. I enjoy challenges and constantly set goals for myself."
+        },
+        {
+            "src": "/img/members/aydin tayga.jpeg",
+            "name": "Aydin Tayga",
+            "department": "Volunteer - Programming",
+            "desc": "I am very friendly and always eager to meet new people.I enjoy reading, playing the guitar and spending time with my friends."
+        },
+        {
+            "src": "/img/members/mirescu maia.jpeg",
+            "name": "Maia Mirescu",
+            "department": "Volunteer - Programming",
+            "desc": "Trying to find the best version of me."
+        },
+        {
+            "src": "/img/members/Ilinca.jpeg",
+            "name": "Alexandru Ilinca",
+            "department": "Volunteer - Programming",
+            "desc": "I enjoy meeting new people,  programming and travelling"
+        },
+        {
+            "src": "/img/members/gilma-alesia.png",
+            "name": "Gîlmă Alesia",
+            "department": "Engineering Notebook",
+            "desc": "I like reading and writing and I consider myself a creative person. I enjoy working in a team and  I also am the shortest one here."
+        },
+        {
+            "src": "/img/members/vulpe-diana.png",
+            "name": "Vulpe Diana",
+            "department": "Engineering Notebook",
+            "desc": "My sister told me about this team and because I like trying new things I decided to join it. I also enjoy singing and dancing."
+        },
+        {
+            "src": "/img/members/rostas maya.jpeg",
+            "name": "Rostas Maya",
+            "department": "Engineering Notebook",
+            "desc":"I‘m a creative individual with a profund appreciation for the fusion of physics and motorsport"
+        },
+        {
+            "src": "/img/members/gherasim maria.jpeg",
+            "name": "Gherasim Maria",
+            "department": "Marketing",
+            "desc": "I like laughing, drawing and, more than that I like getting involved in everything, meeting and being surrounded by people"
+        },
+        {
+            "src": "/img/members/caldararu diana.jpeg",
+            "name": "Caldararu Diana",
+            "department": "Marketing",
+            "desc": "I’m mastering the art of being silent, even when there’s a lot to be said."
+        },
+        {
+            "src": "/img/members/Craciun Sara.jpg",
+            "name": "Craciun Sara",
+            "department": "Marketing",
+            "desc": "I love the magic behind any program or geometric figure...shortly, I like the exact sciences, perfectly combined with teamwork, qualities that define me."
+        }
+    ],
+
+    "2023": [
+        {
+            "src": "/img/members/mihnea-manta2.jpeg",
+            "name": "Manta Mihnea Vasile",
+            "department": "Team Leader",
+            "desc": "It is my fifth season in this team. I like hiking and organizing my co-workers. I also enjoy 3D printing."
+        },
+        {
+            "src": "/img/members/Stahie Andrei.jpeg",
+            "name": "Stahie Andrei",
+            "department": "Hardware",
+            "desc": "I'm passionate about engineering and in my spare time I create a lot of things."
+
+        },
+        {
+            "src": "/img/members/Marina Andrei.jpg",
+            "name": "Marina Andrei",
+            "department": "Hardware",
+            "desc": "I am a creative and friendly person who enjoys working with others . I have always liked to tinker with different things, and I'm glad I'm finally able to do it with robots."
+
+        },
+        {
+            "src": "/img/members/nichifor darius.jpeg",
+            "name": "Nichifor Darius",
+            "department": "Hardware",
+            "desc": "I would describe myself as a friendly,calm and hardworking person."
+        },
+        {
+            "src": "/img/members/stoica alfonso.jpeg",
+            "name": "Stoica Alfonso",
+            "department": "Hardware",
+            "desc": "I‘m part of the hardware,I‘m a curious, receptive, attentive person and I like to learn new things.In my spare time I solve rubik cubes, play with legos and do martial arts."
+        },
+        {
+            "src": "/img/members/dragomir erica2.jpeg",
+            "name": "Dragomir Erica",
+            "department": "Hardware",
+            "desc": "I am a hardworking person who enjoys science, video editing, cinematography, music and travelling"
+        },
+        {
+            "src": "/img/members/urleteanu ana.jpg",
+            "name": "Urleteanu Ana",
+            "department": "Hardware",
+            "desc": "I would describe myself as a friendly,calm and hardworking person."
+        },
+        {
+            "src": "/img/members/stefan2.jpeg",
+            "name": "Birlica Stefan",
+            "department": "Programming",
+            "desc": "I am a friendly person, I enjoy spending time on computers, playing video games."
+        },
+        {
+            "src": "/img/members/radulescu razvan.jpeg",
+            "name": "Radulescu Razvan",
+            "department": "Programming",
+            "desc": "I like doing computer science stuff and many more diverse activities, such as sports, travelling and socializing"
+        },
+        {
+            "src": "/img/members/traian2.jpeg",
+            "name": "Dobrescu Traian",
+            "department": "Programming",
+            "desc": "I enjoy art, design, programming, maths and doing the autonomy"
+        },
+        {
+            "src": "/img/members/caldararu denisa.jpg",
+            "name": "Căldăraru Denisa",
+            "department": "Programming",
+            "desc": "I consider myself an ambitious, motivated and organized person. I enjoy challenges and constantly set goals for myself."
+        },
+        {
+            "src": "/img/members/aydin tayga.jpeg",
+            "name": "Aydin Tayga",
+            "department": "Programming",
+            "desc": "I am very friendly and always eager to meet new people.I enjoy reading, playing the guitar and spending time with my friends."
+        },
+        {
+            "src": "/img/members/mirescu maia.jpeg",
+            "name": "Maia Mirescu",
+            "department": "Programming",
+            "desc": "Trying to find the best version of me."
+        },
+        {
+            "src": "/img/members/gilma-alesia.png",
+            "name": "Gîlmă Alesia",
+            "department": "Engineering Notebook",
+            "desc": "I like reading and writing and I consider myself a creative person. I enjoy working in a team and  I also am the shortest one here."
+        },
+        {
+            "src": "/img/members/vulpe-diana.png",
+            "name": "Vulpe Diana",
+            "department": "Engineering Notebook",
+            "desc": "My sister told me about this team and because I like trying new things I decided to join it. I also enjoy singing and dancing."
+        },
+        {
+            "src": "/img/members/rostas maya.jpeg",
+            "name": "Rostas Maya",
+            "department": "Engineering Notebook",
+            "desc":"I‘m a creative individual with a profund appreciation for the fusion of physics and motorsport"
+        },
+        {
+            "src": "/img/members/gherasim maria.jpeg",
+            "name": "Gherasim Maria",
+            "department": "Marketing",
+            "desc": "I like laughing, drawing and, more than that I like getting involved in everything, meeting and being surrounded by people"
+        },
+        {
+            "src": "/img/members/caldararu diana.jpeg",
+            "name": "Caldararu Diana",
+            "department": "Marketing",
+            "desc": "I’m mastering the art of being silent, even when there’s a lot to be said."
+        },
+        {
+            "src": "/img/members/craciun sara.jpg",
+            "name": "Craciun Sara",
+            "department": "Marketing",
+            "desc": "I love the magic behind any program or geometric figure...shortly, I like the exact sciences, perfectly combined with teamwork, qualities that define me."
+        }
+    ],
+    "2021": [
+        {
+            "src": "/img/members/mihnea-manta.png",
+            "name": "Manta Mihnea Vasile",
+            "department": "Team Leader",
+            "desc": "I like hiking and organising my co-workers."
+        },
+        {
+            "src": "/img/members/manta-stefan.png",
+            "name": "Manta Mădălin Ștefan",
+            "department": "Pilot/Hardware",
+            "desc": "I am in this team beacuse of my passion for the new technology."
+        },
+        {
+            "src": "/img/members/meserus.png",
+            "name": "Meseruș Mihai Adrian",
+            "department": "Hardware",
+            "desc": "I joined this team beacuse I want to develop my skills."
+        },
+        {
+            "src": "/img/members/calmac-stefan.png",
+            "name": "Calmâc Ștefan",
+            "department": "Hardware",
+            "desc": "I like playing basketball, programming and building robots."
+        },
+        {
+            "src": "/img/members/manea-alex.png",
+            "name": "Manea Gabriel Alexandru",
+            "department": "Hardware",
+            "desc": "I like building robots, that`s why I am in this team."
+        },
+        {
+            "src": "/img/members/coman-david.png",
+            "name": "Coman David Ilie",
+            "department": "Hardware",
+            "desc": "I enjoy both technology and sport."
+        },
+        {
+            "src": "/img/members/caldararu-denisa.png",
+            "name": "Căldăraru Denisa Elena",
+            "department": "Pilot/Programming",
+            "desc": "My hobbies are playing the guitar,video games,travelling and programming."
+        },
+        {
+            "src": "/img/members/cristea-bianca.png",
+            "name": "Cristea Elena Bianca",
+            "department": "Programming",
+            "desc": "I am friendly and I enjoy working with others."
+        },
+        {
+            "src": "/img/members/stoian-tudor.png",
+            "name": "Stoian Tudor Andrei",
+            "department": "Programming",
+            "desc": "I am a good teammate and I adapt easily to new situations."
+        },
+        {
+            "src": "/img/members/traian.png",
+            "name": "Dobrescu Traian Andrei",
+            "department": "Programming",
+            "desc": "Some of the things that I like are money, programming and maths."
+        },
+        {
+            "src": "/img/members/patric.png",
+            "name": "Tîrîlă Patric Gabriel",
+            "department": "Programming",
+            "desc": "My hobbies are programming and editing in photoshop."
+        },
+        {
+            "src": "/img/members/plesa-alexia.png",
+            "name": "Pleșa Alexia Gabriela",
+            "department": "Engineering Notebook",
+            "desc": "I like reading and I consider myself a creative person."
+        },
+        {
+            "src": "/img/members/vulpe-diana.png",
+            "name": "Vulpe Diana Gabriela",
+            "department": "Engineering Notebook",
+            "desc": "I like trying new things so I decided to join the team."
+        },
+        {
+            "src": "/img/members/gilma-alesia.png",
+            "name": "Gîlmă Alesia Florina",
+            "department": "Engineering Notebook",
+            "desc": "I like reading and I consider myself a creative person."
+        },
+        {
+            "src": "/img/members/badea-irina.png",
+            "name": "Badea Irina Gabriela",
+            "department": "Marketing",
+            "desc": "I wanted to be part of this team to help promoting it on social media."
+        },
+        {
+            "src": "/img/members/tache.png",
+            "name": "Tache Bogdan Gabriel",
+            "department": "Volunteer - Hardware",
+            "desc": "Robotics is one of my dearest hobbies beacuse I`ve always been interested in it."
+        },
+        {
+            "src": "/img/members/george-geana.png",
+            "name": "Geană George Gabriel",
+            "department": "Volunteer - Hardware",
+            "desc": "I enjoy finfing out new things about technology and doing some form of sport."
+        },
+        {
+            "src": "/img/members/maria-radu.png",
+            "name": "Radu Bianca Maria",
+            "department": "Volunteer - Marketing",
+            "desc": "I like trying out new things so that i can find new passions of me."
+        }
+    ],
+    "2020": [
+        {
+            "src": "/img/members/mihnea-manta.png",
+            "name": "Manta Mihnea Vasile",
+            "department": "Team Leader",
+            "desc": "It is my third season in this team. I like hiking and organizing my co-workers. I also enjoy 3D printing."
+        },
+        {
+            "src": "/img/members/manta-stefan.png",
+            "name": "Manta Mădălin Ștefan",
+            "department": "Pilot/Hardware",
+            "desc": "I enjoy playing Racing Games, riding my bike with my friends or playing football."
+        },
+        {
+            "src": "/img/members/calmac-stefan.png",
+            "name": "Calmâc Ștefan",
+            "department": "Hardware",
+            "desc": "I like playing basketball, programming and building robots. I am quite a boring person considering that I usually sleep in my free time."
+        },
+        {
+            "src": "/img/members/manea-alex.png",
+            "name": "Manea Alexandru",
+            "department": "Hardware",
+            "desc": "I like spending my free time cycling or listening to music. I like building robots, so that’s why I am in this team."
+        },
+        {
+            "src": "/img/members/coman-david.png",
+            "name": "Coman David Ilie",
+            "department": "Hardware",
+            "desc": "I am keen on technology and sports. I joined the team to gain experience about robotics and to develop my teamwork abilities."
+        },
+        {
+            "src": "/img/members/patric.png",
+            "name": "Tîrîlă Patric",
+            "department": "Programming",
+            "desc": "I enjoy learning new things and working with other people which are the 2 biggest reasons I joined this team."
+        },
+        {
+            "src": "/img/members/cristea-bianca.png",
+            "name": "Cristea Bianca",
+            "department": "Programming",
+            "desc": "I consider myself a serious and hardworking person, these being the traits that recommend me for this team."
+        },
+        {
+            "src": "/img/members/radu-cristian.png",
+            "name": "Radu Cristian",
+            "department": "Programming",
+            "desc": "I am an introvert and I like programming. I decided to join the team beacuse I want to be a part of anything that involves technology."
+        },
+        {
+            "src": "/img/members/carol.png",
+            "name": "Bazga Carol",
+            "department": "Programming",
+            "desc": "I`m passionate about computer science, math and physics. I can`t live without music, especially hard work."
+        },
+        {
+            "src": "/img/members/gilma-alesia.png",
+            "name": "Gîlmă Alesia",
+            "department": "Engineering Notebook",
+            "desc": "I like reading and writing and I consider myself a creative person. I enjoy working in a team and  I also am the shortest one here."
+        },
+        {
+            "src": "/img/members/vulpe-diana.png",
+            "name": "Vulpe Diana",
+            "department": "Engineering Notebook",
+            "desc": "My sister told me about this team and because I like trying new things I decided to join it. I also enjoy singing and dancing."
+        },
+        {
+            "src": "/img/members/plesa-alexia.png",
+            "name": "Pleșa Alexia",
+            "department": "Engineering Notebook",
+            "desc": "I like writing a lot and keeping things organized so that’s the reason I wanted to be in this team."
+        },
+        {
+            "src": "/img/members/anghel-rares.png",
+            "name": "Anghel Rareș",
+            "department": "Marketing",
+            "desc": "I like video games and everything that has to do with social media. I like helping others, even though I don`t know how to help them."
+        },
+        {
+            "src": "/img/members/bunea-maria.png",
+            "name": "Bunea Maria",
+            "department": "Marketing",
+            "desc": "This year I would like to learn as much as possible in the field of leadership to inspire my colleagues."
+        },
+        {
+            "src": "/img/members/badea-irina.png",
+            "name": "Badea Irina",
+            "department": "Marketing",
+            "desc": "Given the fact that I am passionate about everything related to the online environment, I wanted to be part of this team to help promote on social media."
+        },
+        {
+            "src": "/img/members/bogdan-burlan.png",
+            "name": "Burlan Bogdan",
+            "department": "Volunteer - Programming",
+            "desc": "I want to work in this group to improve my teamwork abilities. I also like programming."
+        },
+        {
+            "src": "/img/members/meserus.png",
+            "name": "Meseruș Mihai",
+            "department": "Volunteer - Hardware",
+            "desc": "I like riding the bike and cooking. I want to be on this team to spend more time with my friends and improve my robotics skill."
+        },
+        {
+            "src": "/img/members/tache.png",
+            "name": "Tache Bogdan",
+            "department": "Volunteer - Hardware",
+            "desc": "I like this crew, particularly the robots. It has always been my dream to work in a team that specializes in robotics."
+        }
+    ],
+    "2018": [
+        {
+            "src": "/img/members/enoae-andrei.png",
+            "name": "Enoae Andrei",
+            "department": "Team Leader",
+            "desc": "I am the captain and founder of UNDEFINED, so basically I do a bit of everything and I make sure everybody’s ideas are heard. I love coming up with new innovative designs to solve problems, it’s a way of applying my other passion for physics into the real world."
+        },
+        {
+            "src": "/img/members/narcis.png",
+            "name": "Pescaru Narcis",
+            "department": "Hardware",
+            "desc": "I’m the guy who tries to repair everything I can. I like to work with my team and I enjoy building robots. My main goal is to learn a little bit of everything so I can help everyone in my team."
+        },
+        {
+            "src": "/img/members/manta-stefan.png",
+            "name": "Manta Mădălin Ștefan",
+            "department": "Hardware",
+            "desc": "I’m a new member of UNDEFINED. I like playing video games, driving cars and also being a robot pilot. I have a creative mind and I love to work along the team to achieve the best results."
+        },
+        {
+            "src": "/img/members/unknown.png",
+            "name": "Brebeanu Alexandru",
+            "department": "Hardware",
+            "desc": "I have only joined Team UNDEFINED this year and I am part of the hardware department. I am looking forward to learning all sorts of new things and meeting many awesome people."
+        },
+        {
+            "src": "/img/members/mihnea-manta.png",
+            "name": "Manta Mihnea",
+            "department": "Hardware",
+            "desc": "I joined the team last year and I’m also the youngest member. My job is to design a functional and reliable robot with the help of the rest of the hardware team and 3D printing which helps us because we can create new parts that are specific to our robot."
+        },
+        {
+            "src": "/img/members/calin.png",
+            "name": "Froicu Călin",
+            "department": "Hardware",
+            "desc": "I am passionate about video games and technology and I’m keen on learning new things. I am real proud of being a part of this project as it is a very interesting topic that will play a big role in the future. I am looking forward to meeting even more amazing people during the FTC contests."
+        },
+        {
+            "src": "/img/members/enache-andrei.png",
+            "name": "Enache Andrei",
+            "department": "Hardware",
+            "desc": "I’m a member of the hardware team, and my mission is to make my colleagues’ ideas about the robot’s structure come to life. Also, this year I would like to learn as much as I can about what it takes to be a leader, so I can inspire my teammates."
+        },
+        {
+            "src": "/img/members/victor-brinzea.png",
+            "name": "Brînzea Victor",
+            "department": "Hardware",
+            "desc": "I joined this project in order to increase my creativity and my logical thinking. I am a big fan of the evolution of technology and I am proud to be a part of it."
+        },
+        {
+            "src": "/img/members/goran-alex.png",
+            "name": "Goran Alexandru",
+            "department": "Hardware",
+            "desc": ""
+        },
+        {
+            "src": "/img/members/patric.png",
+            "name": "Tîrîlă Patrci",
+            "department": "Programming",
+            "desc": "I am one of the programmers and pilots of this team. I love programming and learning new things about hardware and software. In the past, I worked with Python, JavaScript, Html, Css and C++ and I can’t wait to help my teammates win as many competitions as we can."
+        },
+        {
+            "src": "/img/members/lungu-rares.png",
+            "name": "Lungu Rareș",
+            "department": "Programming",
+            "desc": "I’m a member of Team UNDEFINED and also the Head Programmer. I love showing new members that there’s nothing scary in Java programming, you just have to be passionate about it. We made some first steps towards great goals- I am thrilled to have joined this project and I’m ready to give the best I’ve got."
+        },
+        {
+            "src": "/img/members/marin-andreea.png",
+            "name": "Marin Andreea",
+            "department": "Programming",
+            "desc": "I’m a new programmer at Team UNDEFINED. I love challenges and I’m a very fast learner. Although, it’s my first time programming a robot, I’m looking forward to learning and discovering the beauty of programming."
+        },
+        {
+            "src": "/img/members/bunea-maria.png",
+            "name": "Bunea Maria",
+            "department": "Engineering Notebook",
+            "desc": "My job is to maintain the social media accounts and help with the notebook. I do a bit of marketing too. I can’t help with the construction of the robot but I gave a plus to the team anyway."
+        },
+        {
+            "src": "/img/members/coman-david.png",
+            "name": "Postovaru Ștefania",
+            "department": "Engineering Notebook",
+            "desc": "Some fun facts about me are inability to sleep unless I am laying face down and that I tend to do a lot of things, like tying my shoelaces backwards. I’ve recently moved to Câmpina from Constanța, where I practiced handball for 6 years."
+        }
+    ]
+}

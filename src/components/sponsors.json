@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Dulcelle",
+        "src": "/img/sponsor/dulcelle.png",
+        "url": "https://dulcelle.com/contact/",
+        "description": "Artisanal Chocolaterie - Crafting premium handmade chocolates with passion and dedication."
+    },
+    {
+        "name": "Lemet",
+        "src": "/img/sponsor/logo-lemet.webp",
+        "url": "https://www.lemet.ro/",
+        "description": "Enthusiasm and Passion - Furniture factory LEMET, established in Câmpina since December 1991."
+    },
+    {
+        "name": "Colegiul National Nicolae Grigorescu",
+        "src": "/img/sponsor/cnng1.jpeg",
+        "url": "https://cngrigorescu.ro/",
+        "description": "Nicolae Grigorescu National College - Câmpina, Romania - Our high school, fostering excellence in education."
+    },
+     {
+        "name": "WAMGROUP Romania",
+        "src": "/img/sponsor/wam romania.jpg",
+        "url": "https://wamgroup.ro/ro-RO/WAMRO/home",
+        "description": "The multinational WAMGROUP Corporation, a global leader in the development and production of equipment and installations for bulk materials handling, has been present in Romania since 2002."
+    },
+     {
+        "name": "Erbasu",
+        "src": "/img/sponsor/Erbasu.png",
+        "url": "https://www.erbasu.ro/",
+        "description": "Erbașu Construction is a fully Romanian-owned construction company, founded in 1990. With more than 3,000 employees, it delivers complex projects in civil construction, infrastructure (roads, bridges, passages), and general contracting, including design and execution"
+    }
+]

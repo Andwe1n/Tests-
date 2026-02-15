@@ -1,0 +1,91 @@
+---
+import Footer from '../components/Footer.svelte';
+import Navbar from '../components/Navbar.svelte';
+import '../styles/base.css';
+export interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/logo_undefined_white.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-W5C9V9LJ');</script>
+		<!-- End Google Tag Manager -->
+		<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-1SSFYESKRS"></script>
+			<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-1SSFYESKRS');
+			</script>
+		<!-- End Google tag (gtag.js) -->
+	</head>
+	<body class="scanline-effect">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5C9V9LJ"
+			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+		<!-- Little Robot Walker -->
+		<div class="robot-walker walking-right" id="robotWalker">
+			<div class="robot-antenna"></div>
+			<div class="robot-body">
+				<div class="robot-eyes">
+					<div class="robot-eye"></div>
+					<div class="robot-eye"></div>
+				</div>
+			</div>
+			<div class="robot-tracks">
+				<div class="robot-track"></div>
+				<div class="robot-track"></div>
+			</div>
+		</div>
+
+		<script>
+			// Random direction changes for the robot
+			const robot = document.getElementById('robotWalker');
+			if (robot) {
+				let currentDirection = 'right';
+
+				function changeDirection() {
+					const directions = ['walking-right', 'walking-left'];
+					const newDirection = directions[Math.floor(Math.random() * directions.length)];
+
+					if (newDirection !== `walking-${currentDirection}`) {
+						robot.classList.remove('walking-right', 'walking-left');
+						robot.classList.add(newDirection);
+						currentDirection = newDirection.replace('walking-', '');
+					}
+
+					// Change direction every 20-40 seconds randomly
+					const nextChange = 20000 + Math.random() * 20000;
+					setTimeout(changeDirection, nextChange);
+				}
+
+				// Start changing directions
+				setTimeout(changeDirection, 20000);
+			}
+		</script>
+
+		<Navbar url={Astro.url} client:load />
+		<main class="mt-16 md:mt-20 relative z-10">
+			<slot/>
+		</main>
+		<Footer></Footer>
+	</body>
+</html>
